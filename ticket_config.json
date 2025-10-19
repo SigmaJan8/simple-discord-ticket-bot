@@ -1,0 +1,12 @@
+{
+    "1399446166873313311": {
+        "embed_title": "Support Tickets",
+        "embed_description": "Click the button below to create a support ticket. Our staff will assist you shortly.",
+        "embed_color": "0x5865F2",
+        "button_label": "Create Ticket",
+        "category_id": 1429566588947796008,
+        "staff_roles": [
+            1429566626247872572
+        ]
+    }
+}
